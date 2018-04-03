@@ -1,0 +1,31 @@
+Korzystając z grep -E, w pliku ~regex.txt znajdź linie...
+1. zawierające znak 'g',
+2. zaczynające się od znaku 'A',
+3. zaczynające się od znaku 'A' lub 'a',
+4. zawierające (co najmniej) dwa znaki 'C' z rzędu,
+5. zawierające (dokładnie) dwa znaki 'C' z rzędu,
+6. zawierające łańcuch "color" lub "colour",
+7. zawierające informację o Kowalskim (łańcuch "Kowalski", "Kowalskim", "Kowalskiego",
+etc.)),
+8. zawierającę (choćby jedną) cyfrę,
+9. zawierającę co najmniej dwie cyfry z rzędu,
+10. zawierającę liczbę dwucyfrową (może być trudne!),
+11. zawierające cyfrę poprzedzoną literą,
+12. zawierające tag HTML (łańcuch ujęty w znaki '<' '>')
+13. zawierające niepusty łańcuch ujęty w cudzysłów,
+14. zakończone kropką,
+15. zakończone kropką, nieskładające się z samej kropki,
+16. zakończone znakiem zapytania,
+17. zakończone kropką, znakiem zapytania lub wykrzyknikiem,
+18. zawierające sumy całkowite wyrażone w dolarach, tj. ciąg cyfr, po którym bezpośrednio
+następuje znak '$'.
+19. zawierające sumy niecałkowite wyrażone w dolarach, tj. z kropką dziesiętną (94.5$, 130.23$,
+200.1198$, etc.)
+20. j.w., ale z dokładnością do centa, tj. (30.45$, 94.50$, ale nie 11$, 23.4$, 29.119$)
+21. zawierające łańcuch "OnTimer" lub "OnButton" lub "OnMouseClick",
+22. zawierające numer roku z przedziału 1900-1999,
+23. zawierające numer roku z XXw. (1901-2000) (niebanalne!, powineneś dostać 5 dopasowań),
+24. zawierające łańcuchy postaci dddd-dd-dd, gdzie 'd' jest cyfrą,
+25. j.w., ale gdzie pierwsze pole mieści się w przedziale 1400-3000,
+26. j.w., ale gdzie drugie pole mieści się w przedziale 01-12 (i ma dwie cyfry),
+27. j.w., ale gdzie drugie pole mieści się w przedziale 01-12 lub 1-12.

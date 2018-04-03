@@ -1,0 +1,119 @@
+Ala ma kota
+Albert ma kota
+Alfons ma kota
+Ala ma psa
+Ola tez ma psa
+Ula ma psa
+Lala ma chomika
+
+/*
+ * Miscellaneous constants
+ */
+#define MPI_ANY_SOURCE         -1      /* match any source rank */
+#define MPI_PROC_NULL          -2      /* rank of null process */
+#define MPI_ROOT               -4
+#define MPI_ANY_TAG            -1      /* match any message tag */
+#define MPI_MAX_PROCESSOR_NAME 256     /* max proc. name length */
+#define MPI_MAX_ERROR_STRING   256     /* max error message length */
+#define MPI_MAX_OBJECT_NAME    64      /* max object name length */
+#define MPI_UNDEFINED          -32766  /* undefined stuff */
+#define MPI_CART               1       /* cartesian topology */
+#define MPI_GRAPH              2       /* graph topology */
+#define MPI_KEYVAL_INVALID     -1      /* invalid key value */
+
+<script>
+var cnnDocDomain='';
+if(location.hostname.indexOf('cnn.com')>0) { cnnDocDomain='cnn.com'; }
+if(location.hostname.indexOf('turner.com')>0) { cnnDocDomain='turner.com'; }
+if(cnnDocDomain) { document.domain = cnnDocDomain;}
+</script>
+<script>
+
+Kowalski nie przyszedl dzis do pracy
+O Kowalskim niewiele wiadomo
+
+function cnnGetId(query) {
+ var keyValPairs = query.split('&');
+ if(!keyValPairs) {
+   keyValPairs = new Array();
+   keyValPairs[keyValPairs.length]=query;
+ }
+ for(var counter=0;counter<keyValPairs.length;counter++) {
+  var keyVal = keyValPairs[counter].split('=');
+  if(keyVal[0]=='domId') {
+    return keyVal[1];
+  }
+ }
+}
+
+void GUI::OnKeystroke {}
+Another world
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script language="JavaScript1.1" src="http://ar.atwola.com/file/adsWrapper.js"></script>
+<style type="text/css">
+<!--
+.aoltextad { text-align: justify; font-size: 12px; color: black; font-family: Georgia, sans-serif }
+-->
+</style>
+void GUI::On {}
+<script language="JavaScript1.1" type="text/javascript" src="http://ar.atwola.com/file/adsPopup2.js"></script>
+<script language="JavaScript">
+document.adoffset = 0;
+CPCPCP
+document.adPopupDomain = window.location.hostname;
+document.adPopupFile = '/cnn_adspaces/adsPopup2.html';
+document.adPopupInterval = 'P24';
+document.adPopunderInterval = 'P24';
+adSetOther('&TVAR='+escape('class=us.low'));
+</script>
+<title>CNN.com - U.S. declines to create do-not-spam list - Jun 15, 2004</title><script language="JavaScript1.1" src="http://i.cnn.net/cnn/.element/ssi/js/1.1/main.js" type="text/javascript"></script><link rel="stylesheet" href="http://i.cnn.net/cnn/.element/ssi/css/1.1/main.css" type="text/css">
+CCP2007
+CCCP
+CCCCPPPPCCC
+The song "Kowalski" by Primal Scream
+CCCCCPPPPPCCCCC
+black color
+blue color
+Kowal to zawod wymierajacy
+1900 to nie jest rok w XX w.
+Gospodarka Malty w roku 1950 -- opracowanie.
+Kowale w ogole sa na wymarciu
+Dzielnica Gdansk-Kowale jest na koncu swiata
+blue collar
+white collar
+W pracy nie widziano Kowalskiego
+red colour
+the colour yellow
+the spelling 'coloor' is wrong
+To jest liczba dwucyfrowa 32
+To jest liczba dwucyfrowa 32 i cos po niej
+To nie jest liczba dwucyfrowa 324
+To jest liczba dwucyfrowa i jakas inna w tej samej linii 32 324
+42 to tez jest liczba dwucyfrowa
+21
+void GUI::OnButton {}
+Pojedynczy cudzyslow: "
+Podwojny cudzyslow: ""
+Tekst w cudzyslowie: "tekst".
+Pelne zdanie, zakonczone kropka.
+.
+void GUI::OnMouseClick {}
+inz. Kowalski spi
+???
+Czy Kowalski spi?
+Nie spi!
+Koszt: 100$
+Za 200$ mozna wykupic last-minute
+130.5$ placono na czarnym rynku za uncje kryptonitu
+$$$
+$
+Ile $
+Bitwa pod Grunwaldem: 1410
+Wybuch wojny: 1914
+Wybuch wojny: 1939
+Koniec swiata: 2012
+Ostatni rok XX w: 2000
+Pierwszy rok XXI w.: 2001
+1901 to pamietny rok dla Elizy
+Daleko jeszcze do 2905 
+a tym bardziej do 3000
+
