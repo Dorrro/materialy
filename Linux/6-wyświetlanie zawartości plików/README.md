@@ -1,0 +1,3 @@
+1. Dodaj do katalogu katalogB za pomoca edytora tekstowego pliki z dowolnym tekstem o nazwach plikZawartosc1 oraz plikZawartosc. Za pomoca poznanego polecenia cat wyswietl zawartosc plików o nazwie plikZawartosc1 oraz plikZawartosc2 numerujac ich linie: : cat -n plik1.txt plik2.txt lub cat -n plik.*
+2. W celu zlaczenia plikówplikZawartosc1 oraz plikZawartosc2 w plikZawartosc3 jeden posluz sie operatorem skierowania >> - cat plik1.txt plik2.txt >> plik3.txt
+3. Przejrzyj zawartosc pliku plikZawartosc3 za pomoca polcen more oraz less

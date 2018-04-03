@@ -1,0 +1,2 @@
+1. Przejdz do glównego katalogu w strukturze katalogów o jeden „wyzej” za pomoca polecenia cd z parametrem .., nastepnie przejdz do katalogu glównego przy uzyciu parametru /.
+2. Przy uzyciu polecenia cd nazwaKatalogu wróc z powrotem do swojego katalogu domowego

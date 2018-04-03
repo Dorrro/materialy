@@ -1,0 +1,3 @@
+1. Sprawdz za pomoca polecenia ls z odpowiednim parametrem uprawnienia do katalogu katalogA
+2. Za pomoca polecenia chmod zmien parametry katalogu katalogA pelnie dla wlasciciela, wejscie i przeszukanie zawartosci dla grupy przypisanej do katalogu i na brak uprawnien dla pozostalych uzytkowników pamietajac, ze wartosci liczbowe. - 4 – r - przeszukanie zawartosci (katalog), odczyt - 2 – w - zmiana zawartosci (katalog i plik) - 1 – x - wejscie (katalog), uruchomienie (plik) przyklad – chmod 666 katalog1
+3. Za pomoca parametru –R dokonaj zmiany zarówno dla katalogu katalogA jak i podkatalogów na uprawnienia pelne dla wszystkich wyswietlajac informacje dla kazdej ze zmian za pomoca parametru –v
