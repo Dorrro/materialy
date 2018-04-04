@@ -3,4 +3,4 @@
 3. Sprawdz dzialanie polecenia ls z parametrami: -a, -A, -d
 5. Wyswietl zawartosc równiez podkatalogów uzywajac parametru –recursive
 6. Posortuj wyswietlane wyniki wg wielkosci i czasu utworzenie korzystajac z parametrów: -S i –t
-7. Wyswietl strukture katalogów dla katalogu /usr/etc za pomoca polcenia tree
+7. Wyswietl strukture katalogów dla katalogu /home za pomoca polcenia tree
